@@ -1,6 +1,6 @@
 <h1><center>Masked Sparse Adversarial Examples for Audio-Visual Speech Recognition</center></h1>
 
-<center>Anonymous Author(s)</center>
+<center><b>Anonymous Author(s)</b></center>
 
 <center>Submission Id: 1514</center>
 
@@ -10,9 +10,9 @@ Sparse adversarial attacks design imperceptible perturbations onto partial posit
 ## Audio/Video Adversarial Examples
 *Note: All samples are in LRS2-BBC dataset[1].*
 
-###1. Audio Adversarial Examples
+### 1. Audio Adversarial Examples
 
 
-###2. Video Adversarial Examples
+### 2. Video Adversarial Examples
 
 ## References
