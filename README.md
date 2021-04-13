@@ -1,6 +1,7 @@
 <h1><center>Masked Sparse Adversarial Examples for Audio-Visual Speech Recognition</center></h1>
 
 <center>Anonymous Author(s)</center>
+
 <center>Submission Id: 1514</center>
 
 ## Abstract
