@@ -1,39 +1,17 @@
-<center>Masked Sparse Adversarial Examples for Audio-Visual Speech Recognition</center>
+<h1><center>Masked Sparse Adversarial Examples for Audio-Visual Speech Recognition</center></h1>
 
-## Welcome to GitHub Pages
+<center>Anonymous Author(s)</center>
+<center>Submission Id: 1514</center>
 
-You can use the [editor on GitHub](https://github.com/MSAE-demo/MSAE-demo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Abstract
+Sparse adversarial attacks design imperceptible perturbations onto partial positions of inputs that lead a neural network model to predict incorrect outputs. Until now, most researches focus on the image classification and speech recognition domain. However, research on the adversarial attack against audio-visual speech recognition is limited and faces several challenges: 1) 'dispensable regions': some audio and video regions are less important for the model in the speech recognition process. Attacking these regions brings more noise while contributes less to constructing a successful adversarial example; 2) 'sensitiveness distinction': the perceptibility of humans towards the same noise under different regions is significantly different. Particularly, perturbations are more noticeable in the periods of silences and pauses; 3) 'temporal cues': the temporal information contained in videos should be explored. In this paper, we propose a novel sparse adversarial attack scheme, MSAE, that adopts weighted masks to overcome the difficulties above. Specifically, 1) we introduce grouped selective mask to achieve grouped sparsity through backpropagation automatically; 2) the perceptibility weight matrix is introduced to ensure the imperceptibility of the audio and video respectively; 3) we utilize $l2$-norm within frames and $l1$-norm across frames to achieve spatial and temporal sparsity. Experiments on the LRS2-BBC dataset demonstrate the effectiveness of MSAE: it achieves the lowest noise level among several state-of-the-art attack baselines even when only a portion of the input is perturbed. Moreover, our work is the first attempt to implement a successful sparse attack against the audio-visual speech recognition systems.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Audio/Video Adversarial Examples
+*Note: All samples are in LRS2-BBC dataset[1].*
 
-### Markdown
+###1. Audio Adversarial Examples
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+###2. Video Adversarial Examples
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MSAE-demo/MSAE-demo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## References
