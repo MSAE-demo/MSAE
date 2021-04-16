@@ -19,7 +19,7 @@ Here We display two sets of audio examples and video examples of the audio-visua
 	Your browser does not support the audio element.
 	</audio>
 	<div style='text-align:center; height:54px;display:inline-block; position:absolute;'>
-	<label for="input1" style='line-height:54px;font-size:20px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
+	<label for="input1" style='line-height:54px;font-size:18px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
 	</div>
 	
 	<input id="input1" type="submit" value="click&show" onclick="display('audio1')" style="display:none">
@@ -32,7 +32,7 @@ Here We display two sets of audio examples and video examples of the audio-visua
 	Your browser does not support the audio element.
 	</audio>
 	<div style='text-align:center; height:54px;display:inline-block; position:absolute;'>
-	<label for="input2" style='line-height:54px;font-size:20px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
+	<label for="input2" style='line-height:54px;font-size:18px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
 	</div>
 	
 	<input id="input2" type="submit" value="click&show" onclick="display('audio2')" style="display:none">
@@ -45,7 +45,7 @@ Here We display two sets of audio examples and video examples of the audio-visua
 	Your browser does not support the audio element.
 	</audio>
 	<div style='text-align:center; height:54px;display:inline-block; position:absolute;'>
-	<label for="input3" style='line-height:54px;font-size:20px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
+	<label for="input3" style='line-height:54px;font-size:18px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
 	</div>
 	
 	<input id="input3" type="submit" value="click&show" onclick="display('audio3')" style="display:none">
@@ -58,7 +58,7 @@ Here We display two sets of audio examples and video examples of the audio-visua
 	Your browser does not support the audio element.
 	</audio>
 	<div style='text-align:center; height:54px;display:inline-block; position:absolute;'>
-	<label for="input4" style='line-height:54px;font-size:20px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
+	<label for="input4" style='line-height:54px;font-size:18px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
 	</div>
 	
 	<input id="input4" type="submit" value="click&show" onclick="display('audio4')" style="display:none">
@@ -73,7 +73,7 @@ Here We display two sets of audio examples and video examples of the audio-visua
 	Your browser does not support the audio element.
 	</audio>
 	<div style='text-align:center; height:54px;display:inline-block; position:absolute;'>
-	<label for="input5" style='line-height:54px;font-size:20px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
+	<label for="input5" style='line-height:54px;font-size:18px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
 	</div>
 	
 	<input id="input5" type="submit" value="click&show" onclick="display('audio5')" style="display:none">
@@ -86,7 +86,7 @@ Here We display two sets of audio examples and video examples of the audio-visua
 	Your browser does not support the audio element.
 	</audio>
 	<div style='text-align:center; height:54px;display:inline-block; position:absolute;'>
-	<label for="input6" style='line-height:54px;font-size:20px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
+	<label for="input6" style='line-height:54px;font-size:18px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
 	</div>
 	
 	<input id="input6" type="submit" value="click&show" onclick="display('audio6')" style="display:none">
@@ -99,7 +99,7 @@ Here We display two sets of audio examples and video examples of the audio-visua
 	Your browser does not support the audio element.
 	</audio>
 	<div style='text-align:center; height:54px;display:inline-block; position:absolute;'>
-	<label for="input7" style='line-height:54px;font-size:20px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
+	<label for="input7" style='line-height:54px;font-size:18px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
 	</div>
 	
 	<input id="input7" type="submit" value="click&show" onclick="display('audio7')" style="display:none">
@@ -112,7 +112,7 @@ Here We display two sets of audio examples and video examples of the audio-visua
 	Your browser does not support the audio element.
 	</audio>
 	<div style='text-align:center; height:54px;display:inline-block; position:absolute;'>
-	<label for="input8" style='line-height:54px;font-size:20px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
+	<label for="input8" style='line-height:54px;font-size:18px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
 	</div>
 	
 	<input id="input8" type="submit" value="click&show" onclick="display('audio8')" style="display:none">
@@ -123,7 +123,8 @@ Here We display two sets of audio examples and video examples of the audio-visua
 
 ### 2. Video Adversarial Examples
 Since the examples listed below is in the audio-visual test, the attack method in "()" means the corresponding audio attack mehtod.
-**But before I do  -->  Probably around 85**
+
+**First Set: But before I do  -->  Probably around 85**
 <div>
 	<div style='text-align:center; display: inline-block;'>
 	<video width="224" height="112" controls>
@@ -162,7 +163,7 @@ Since the examples listed below is in the audio-visual test, the attack method i
 	</div>
 </div>
 
-**If it was going to be increased  -->  Sometimes it's difficult to know where**
+**Second Set: If it was going to be increased  -->  Sometimes it's difficult to know where**
 <div>
 	<div style='text-align:center; display: inline-block;'>
 	<video width="224" height="112" controls>
