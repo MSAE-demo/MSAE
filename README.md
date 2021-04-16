@@ -128,7 +128,6 @@ Since the examples listed below is in the audio-visual test, the attack method i
 <div>
 	<div style='text-align:center; display: inline-block;'>
 	<video width="224" height="112" controls>
-	  <source src="CW_l2/BUT BEFORE I DO.mp4" type="video/mp4">
 	  <source src="CW_l2/BUT BEFORE I DO.avi" type="video/avi">
 	  您的浏览器不支持 HTML5 video 标签。
 	</video>
@@ -137,7 +136,6 @@ Since the examples listed below is in the audio-visual test, the attack method i
 	
 	<div style='text-align:center; display: inline-block;'>
 	<video width="224" height="112" controls>
-	  <source src="MSAE_FPM/BUT BEFORE I DO(PROBABLY AROUND 85).mp4" type="video/mp4">
 	  <source src="MSAE_FPM/BUT BEFORE I DO(PROBABLY AROUND 85).avi" type="video/avi">
 	  您的浏览器不支持 HTML5 video 标签。
 	</video>
@@ -146,7 +144,6 @@ Since the examples listed below is in the audio-visual test, the attack method i
 
 	<div style='text-align:center; display: inline-block;'>
 	<video width="224" height="112" controls>
-	  <source src="CW_l2/BUT BEFORE I DO.mp4(PROBABLY AROUND 85).mp4" type="video/mp4">
 	  <source src="CW_l2/BUT BEFORE I DO.avi(PROBABLY AROUND 85).avi" type="video/avi">
 	  您的浏览器不支持 HTML5 video 标签。
 	</video>
@@ -155,7 +152,6 @@ Since the examples listed below is in the audio-visual test, the attack method i
 	
 		<div style='text-align:center; display: inline-block;'>
 	<video width="224" height="112" controls>
-	  <source src="IPC/BUT BEFORE I DO.mp4(PROBABLY AROUND 85).mp4" type="video/mp4">
 	  <source src="IPC/BUT BEFORE I DO.avi(PROBABLY AROUND 85).avi" type="video/avi">
 	  您的浏览器不支持 HTML5 video 标签。
 	</video>
@@ -167,7 +163,6 @@ Since the examples listed below is in the audio-visual test, the attack method i
 <div>
 	<div style='text-align:center; display: inline-block;'>
 	<video width="224" height="112" controls>
-	  <source src="CW_l2/IF IT WAS GOING TO BE INCREASED.mp4" type="video/mp4">
 	  <source src="CW_l2/IF IT WAS GOING TO BE INCREASED.avi" type="video/avi">
 	  您的浏览器不支持 HTML5 video 标签。
 	</video>
@@ -176,7 +171,6 @@ Since the examples listed below is in the audio-visual test, the attack method i
 	
 	<div style='text-align:center; display: inline-block;'>
 	<video width="224" height="112" controls>
-	  <source src="MSAE_FPM/IF IT WAS GOING TO BE INCREASED(SOMETIMES IT'S DIFFICULT TO KNOW WHERE).mp4" type="video/mp4">
 	  <source src="MSAE_FPM/IF IT WAS GOING TO BE INCREASED(SOMETIMES IT'S DIFFICULT TO KNOW WHERE).avi" type="video/avi">
 	  您的浏览器不支持 HTML5 video 标签。
 	</video>
@@ -185,7 +179,6 @@ Since the examples listed below is in the audio-visual test, the attack method i
 
 	<div style='text-align:center; display: inline-block;'>
 	<video width="224" height="112" controls>
-	  <source src="CW_l2/IF IT WAS GOING TO BE INCREASED(SOMETIMES IT'S DIFFICULT TO KNOW WHERE).mp4" type="video/mp4">
 	  <source src="CW_l2/IF IT WAS GOING TO BE INCREASED(SOMETIMES IT'S DIFFICULT TO KNOW WHERE).avi" type="video/avi">
 	  您的浏览器不支持 HTML5 video 标签。
 	</video>
@@ -194,7 +187,6 @@ Since the examples listed below is in the audio-visual test, the attack method i
 	
 		<div style='text-align:center; display: inline-block;'>
 	<video width="224" height="112" controls>
-	  <source src="IPC/IF IT WAS GOING TO BE INCREASED(SOMETIMES IT'S DIFFICULT TO KNOW WHERE).mp4" type="video/mp4">
 	  <source src="IPC/IF IT WAS GOING TO BE INCREASED(SOMETIMES IT'S DIFFICULT TO KNOW WHERE).avi" type="video/avi">
 	  您的浏览器不支持 HTML5 video 标签。
 	</video>
