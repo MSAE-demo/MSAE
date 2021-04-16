@@ -159,7 +159,7 @@ Since the examples listed below is in the audio-visual test, the attack method i
 	  <source src="IPC/BUT BEFORE I DO.avi(PROBABLY AROUND 85).avi" type="video/avi">
 	  您的浏览器不支持 HTML5 video 标签。
 	</video>
-	<h4>C&W-l2 (C&W's Attack)</h4>
+	<h4>C&W-l2 (IPC Attack)</h4>
 	</div>
 </div>
 
@@ -198,7 +198,7 @@ Since the examples listed below is in the audio-visual test, the attack method i
 	  <source src="IPC/IF IT WAS GOING TO BE INCREASED(SOMETIMES IT'S DIFFICULT TO KNOW WHERE).avi" type="video/avi">
 	  您的浏览器不支持 HTML5 video 标签。
 	</video>
-	<h4>C&W-l2 (C&W's Attack)</h4>
+	<h4>C&W-l2 (IPC Attack)</h4>
 	</div>
 </div>
 
