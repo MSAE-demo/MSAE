@@ -19,10 +19,10 @@ Here We display two sets of audio examples and video examples of the audio-visua
 	Your browser does not support the audio element.
 	</audio>
 	<div style='text-align:center; height:54px;display:inline-block; position:absolute;'>
-	<label for="audio1" style='line-height:54px;font-size:20px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
+	<label for="input1" style='line-height:54px;font-size:20px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
 	</div>
 	
-	<input id="audio1" type="submit" value="click&show" onclick="display('audio1')" style="display:none">
+	<input id="input1" type="submit" value="click&show" onclick="display('audio1')" style="display:none">
 	<div id="audio1" style="display:none">
 		<strong>Clean audio:</strong> “But before I do”
 	</div>
@@ -32,10 +32,10 @@ Here We display two sets of audio examples and video examples of the audio-visua
 	Your browser does not support the audio element.
 	</audio>
 	<div style='text-align:center; height:54px;display:inline-block; position:absolute;'>
-	<label for="audio2" style='line-height:54px;font-size:20px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
+	<label for="input2" style='line-height:54px;font-size:20px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
 	</div>
 	
-	<input id="audio2" type="submit" value="click&show" onclick="display('audio2')" style="display:none">
+	<input id="input2" type="submit" value="click&show" onclick="display('audio2')" style="display:none">
 	<div id="audio2" style="display:none">
 		<strong>IPC Attack:</strong> “Probably around 85”
 	</div>
@@ -45,10 +45,10 @@ Here We display two sets of audio examples and video examples of the audio-visua
 	Your browser does not support the audio element.
 	</audio>
 	<div style='text-align:center; height:54px;display:inline-block; position:absolute;'>
-	<label for="audio3" style='line-height:54px;font-size:20px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
+	<label for="input3" style='line-height:54px;font-size:20px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
 	</div>
 	
-	<input id="audio3" type="submit" value="click&show" onclick="display('audio3')" style="display:none">
+	<input id="input3" type="submit" value="click&show" onclick="display('audio3')" style="display:none">
 	<div id="audio3" style="display:none">
 		<strong>MSAE:</strong> “Probably around 85”
 	</div>
@@ -58,10 +58,10 @@ Here We display two sets of audio examples and video examples of the audio-visua
 	Your browser does not support the audio element.
 	</audio>
 	<div style='text-align:center; height:54px;display:inline-block; position:absolute;'>
-	<label for="audio4" style='line-height:54px;font-size:20px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
+	<label for="input4" style='line-height:54px;font-size:20px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
 	</div>
 	
-	<input id="audio4" type="submit" value="click&show" onclick="display('audio4')" style="display:none">
+	<input id="input4" type="submit" value="click&show" onclick="display('audio4')" style="display:none">
 	<div id="audio4" style="display:none">
 		<strong>C&W's Attack:</strong> “Probably around 85”
 	</div>
@@ -73,10 +73,10 @@ Here We display two sets of audio examples and video examples of the audio-visua
 	Your browser does not support the audio element.
 	</audio>
 	<div style='text-align:center; height:54px;display:inline-block; position:absolute;'>
-	<label for="audio5" style='line-height:54px;font-size:20px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
+	<label for="input5" style='line-height:54px;font-size:20px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
 	</div>
 	
-	<input id="audio5" type="submit" value="click&show" onclick="display('audio5')" style="display:none">
+	<input id="input5" type="submit" value="click&show" onclick="display('audio5')" style="display:none">
 	<div id="audio5" style="display:none">
 		<strong>Clean audio:</strong> “If it was going to be increased”
 	</div>
@@ -86,10 +86,10 @@ Here We display two sets of audio examples and video examples of the audio-visua
 	Your browser does not support the audio element.
 	</audio>
 	<div style='text-align:center; height:54px;display:inline-block; position:absolute;'>
-	<label for="audio6" style='line-height:54px;font-size:20px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
+	<label for="input6" style='line-height:54px;font-size:20px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
 	</div>
 	
-	<input id="audio6" type="submit" value="click&show" onclick="display('audio6')" style="display:none">
+	<input id="input6" type="submit" value="click&show" onclick="display('audio6')" style="display:none">
 	<div id="audio6" style="display:none">
 		<strong>IPC Attack:</strong> “Sometimes it's difficult to know where”
 	</div>
@@ -99,10 +99,10 @@ Here We display two sets of audio examples and video examples of the audio-visua
 	Your browser does not support the audio element.
 	</audio>
 	<div style='text-align:center; height:54px;display:inline-block; position:absolute;'>
-	<label for="audio7" style='line-height:54px;font-size:20px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
+	<label for="input7" style='line-height:54px;font-size:20px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
 	</div>
 	
-	<input id="audio7" type="submit" value="click&show" onclick="display('audio7')" style="display:none">
+	<input id="input7" type="submit" value="click&show" onclick="display('audio7')" style="display:none">
 	<div id="audio7" style="display:none">
 		<strong>MSAE:</strong> “Sometimes it's difficult to know where”
 	</div>
@@ -112,10 +112,10 @@ Here We display two sets of audio examples and video examples of the audio-visua
 	Your browser does not support the audio element.
 	</audio>
 	<div style='text-align:center; height:54px;display:inline-block; position:absolute;'>
-	<label for="audio8" style='line-height:54px;font-size:20px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
+	<label for="input8" style='line-height:54px;font-size:20px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
 	</div>
 	
-	<input id="audio8" type="submit" value="click&show" onclick="display('audio8')" style="display:none">
+	<input id="input8" type="submit" value="click&show" onclick="display('audio8')" style="display:none">
 	<div id="audio8" style="display:none">
 		<strong>C&W's Attack:</strong> “Sometimes it's difficult to know where”
 	</div>
@@ -145,8 +145,8 @@ Since the examples listed below is in the audio-visual test, the attack method i
 
 	<div style='text-align:center; display: inline-block;'>
 	<video width="224" height="112" controls>
-	  <source src="CW_l2/BUT BEFORE I DO.mp4(PROBABLY AROUND 85)" type="video/mp4">
-	  <source src="CW_l2/BUT BEFORE I DO.avi(PROBABLY AROUND 85)" type="video/avi">
+	  <source src="CW_l2/BUT BEFORE I DO.mp4(PROBABLY AROUND 85).mp4" type="video/mp4">
+	  <source src="CW_l2/BUT BEFORE I DO.avi(PROBABLY AROUND 85).avi" type="video/avi">
 	  您的浏览器不支持 HTML5 video 标签。
 	</video>
 	<h4>C&W-l2 (C&W's Attack)</h4>
@@ -154,8 +154,8 @@ Since the examples listed below is in the audio-visual test, the attack method i
 	
 		<div style='text-align:center; display: inline-block;'>
 	<video width="224" height="112" controls>
-	  <source src="IPC/BUT BEFORE I DO.mp4(PROBABLY AROUND 85)" type="video/mp4">
-	  <source src="IPC/BUT BEFORE I DO.avi(PROBABLY AROUND 85)" type="video/avi">
+	  <source src="IPC/BUT BEFORE I DO.mp4(PROBABLY AROUND 85).mp4" type="video/mp4">
+	  <source src="IPC/BUT BEFORE I DO.avi(PROBABLY AROUND 85).avi" type="video/avi">
 	  您的浏览器不支持 HTML5 video 标签。
 	</video>
 	<h4>C&W-l2 (C&W's Attack)</h4>
@@ -184,8 +184,8 @@ Since the examples listed below is in the audio-visual test, the attack method i
 
 	<div style='text-align:center; display: inline-block;'>
 	<video width="224" height="112" controls>
-	  <source src="CW_l2/IF IT WAS GOING TO BE INCREASED(SOMETIMES IT'S DIFFICULT TO KNOW WHERE)" type="video/mp4">
-	  <source src="CW_l2/IF IT WAS GOING TO BE INCREASED(SOMETIMES IT'S DIFFICULT TO KNOW WHERE)" type="video/avi">
+	  <source src="CW_l2/IF IT WAS GOING TO BE INCREASED(SOMETIMES IT'S DIFFICULT TO KNOW WHERE).mp4" type="video/mp4">
+	  <source src="CW_l2/IF IT WAS GOING TO BE INCREASED(SOMETIMES IT'S DIFFICULT TO KNOW WHERE).avi" type="video/avi">
 	  您的浏览器不支持 HTML5 video 标签。
 	</video>
 	<h4>C&W-l2 (C&W's Attack)</h4>
@@ -193,8 +193,8 @@ Since the examples listed below is in the audio-visual test, the attack method i
 	
 		<div style='text-align:center; display: inline-block;'>
 	<video width="224" height="112" controls>
-	  <source src="IPC/IF IT WAS GOING TO BE INCREASED(SOMETIMES IT'S DIFFICULT TO KNOW WHERE)" type="video/mp4">
-	  <source src="IPC/IF IT WAS GOING TO BE INCREASED(SOMETIMES IT'S DIFFICULT TO KNOW WHERE)" type="video/avi">
+	  <source src="IPC/IF IT WAS GOING TO BE INCREASED(SOMETIMES IT'S DIFFICULT TO KNOW WHERE).mp4" type="video/mp4">
+	  <source src="IPC/IF IT WAS GOING TO BE INCREASED(SOMETIMES IT'S DIFFICULT TO KNOW WHERE).avi" type="video/avi">
 	  您的浏览器不支持 HTML5 video 标签。
 	</video>
 	<h4>C&W-l2 (C&W's Attack)</h4>
