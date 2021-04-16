@@ -18,8 +18,8 @@ Sparse adversarial attacks design imperceptible perturbations onto partial posit
 	<audio src="MSAE_FPM/BUT BEFORE I DO.wav" controls="controls" style='display:inline-block;'>
 	Your browser does not support the audio element.
 	</audio>
-	<div style='text-align:center; height:54px;'>
-	<label for="audio1" style='display:inline-block;line-height:24px;font-size:20px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
+	<div style='text-align:center; height:54px;display:inline-block;'>
+	<label for="audio1" style='line-height:24px;font-size:20px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
 	</div>
 	
 	<input id="audio1" type="submit" value="在线支付" onclick="display('lb')" style="display:none">
