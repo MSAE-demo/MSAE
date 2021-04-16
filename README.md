@@ -13,12 +13,13 @@ Sparse adversarial attacks design imperceptible perturbations onto partial posit
 ### 1. Audio Adversarial Examples
 <label for="male">Male</label>
 
-<audio src="/i/horse.ogg" controls="controls">
+<audio src="MSAE_FPM/BUT BEFORE I DO.wav" controls="controls" style='display:inline_block;'>
 Your browser does not support the audio element.
 </audio>
-<input type="submit" value="在线支付" onclick="display('lb')">
+<label for="audio1">[Reveal Transcription]</label>
+<input id="audio1"type="submit" value="在线支付" onclick="display('lb')">
 <div id="lb" style="display:none">
-	<strong>Clean audio:</strong>
+	<strong>Clean audio:</strong> “About 20 years ago.”
 </div>
 
 ### 2. Video Adversarial Examples
