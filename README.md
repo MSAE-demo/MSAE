@@ -25,7 +25,11 @@ Sparse adversarial attacks design imperceptible perturbations onto partial posit
 
 ### 2. Video Adversarial Examples
 
-<video width="112" height="112" src="MSAE_FPM/BUT BEFORE I DO.mp4" controls="controls" autoplay="autoplay">
+<video src="MSAE_FPM/BUT BEFORE I DO.mp4" controls="controls">
+  Your browser does not support the HTML5 video element.
+</video>
+
+<video src="MSAE_FPM/IF IT WAS GOING TO BE INCREASED.mp4" controls="controls">
   Your browser does not support the HTML5 video element.
 </video>
 
