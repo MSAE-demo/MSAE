@@ -11,17 +11,28 @@ Sparse adversarial attacks design imperceptible perturbations onto partial posit
 *Note: All samples are in LRS2-BBC dataset[1].*
 
 ### 1. Audio Adversarial Examples
-<label for="male">Male</label>
 
-<audio src="/i/horse.ogg" controls="controls">
-Your browser does not support the audio element.
-</audio>
-<input type="submit" value="在线支付" onclick="display('lb')">
-<div id="lb" style="display:none">
-	<strong>Clean audio:</strong>
+<div>
+	<audio src="MSAE_FPM/BUT BEFORE I DO.wav" controls="controls" style='display:inline-block;'>
+	Your browser does not support the audio element.
+	</audio>
+	<label for="audio1" style='display:inline-block;line-height:54px;font-size:24px;font-weight:bold;'>[Reveal Transcription]</label>
+	<input id="audio1" type="submit" value="在线支付" onclick="display('lb')" style="display:none">
+	<div id="lb" style="display:none">
+		<strong>Clean audio:</strong> “But before I do.”
+	</div>
 </div>
 
 ### 2. Video Adversarial Examples
+
+<video src="MSAE_FPM/BUT BEFORE I DO.mp4" controls="controls">
+  Your browser does not support the HTML5 video element.
+</video>
+
+<video src="MSAE_FPM/IF IT WAS GOING TO BE INCREASED.mp4" controls="controls">
+  Your browser does not support the HTML5 video element.
+</video>
+
 
 ## References
 [1] Afouras T, Chung J S, Senior A, et al. Deep audio-visual speech recognition[J]. IEEE transactions on pattern analysis and machine intelligence, 2018.
