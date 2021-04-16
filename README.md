@@ -50,7 +50,7 @@ Here We display two sets of audio examples and video examples of the audio-visua
 	
 	<input id="input3" type="submit" value="click&show" onclick="display('audio3')" style="display:none">
 	<div id="audio3" style="display:none">
-		<strong>MSAE:</strong> “Probably around 85”
+		<strong>C&W's Attack:</strong> “Probably around 85”
 	</div>
 </div>
 <div>
@@ -63,22 +63,22 @@ Here We display two sets of audio examples and video examples of the audio-visua
 	
 	<input id="input4" type="submit" value="click&show" onclick="display('audio4')" style="display:none">
 	<div id="audio4" style="display:none">
-		<strong>C&W's Attack:</strong> “Probably around 85”
+		<strong>MSAE:</strong> “Probably around 85”
 	</div>
 </div>
 
 #### Second Set
 <div>
-	<audio src="MSAE_FPM/IF IT WAS GOING TO BE INCREASED.wav" controls="controls" style='display:inline-block;'>
+	<audio src="MSAE_FPM/IF IT WAS GOING TO BE INCREASED(SOMETIMES IT'S DIFFICULT TO KNOW WHERE).wav" controls="controls" style='display:inline-block;'>
 	Your browser does not support the audio element.
 	</audio>
 	<div style='text-align:center; height:54px;display:inline-block; position:absolute;'>
-	<label for="input5" style='line-height:54px;font-size:18px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
+	<label for="input8" style='line-height:54px;font-size:18px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
 	</div>
 	
-	<input id="input5" type="submit" value="click&show" onclick="display('audio5')" style="display:none">
-	<div id="audio5" style="display:none">
-		<strong>Clean audio:</strong> “If it was going to be increased”
+	<input id="input8" type="submit" value="click&show" onclick="display('audio8')" style="display:none">
+	<div id="audio8" style="display:none">
+		<strong>MSAE:</strong> “Sometimes it's difficult to know where”
 	</div>
 </div>
 <div>
@@ -95,6 +95,19 @@ Here We display two sets of audio examples and video examples of the audio-visua
 	</div>
 </div>
 <div>
+	<audio src="MSAE_FPM/IF IT WAS GOING TO BE INCREASED.wav" controls="controls" style='display:inline-block;'>
+	Your browser does not support the audio element.
+	</audio>
+	<div style='text-align:center; height:54px;display:inline-block; position:absolute;'>
+	<label for="input5" style='line-height:54px;font-size:18px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
+	</div>
+	
+	<input id="input5" type="submit" value="click&show" onclick="display('audio5')" style="display:none">
+	<div id="audio5" style="display:none">
+		<strong>Clean audio:</strong> “If it was going to be increased”
+	</div>
+</div>
+<div>
 	<audio src="CW_l2/IF IT WAS GOING TO BE INCREASED(SOMETIMES IT'S DIFFICULT TO KNOW WHERE).wav" controls="controls" style='display:inline-block;'>
 	Your browser does not support the audio element.
 	</audio>
@@ -104,22 +117,10 @@ Here We display two sets of audio examples and video examples of the audio-visua
 	
 	<input id="input7" type="submit" value="click&show" onclick="display('audio7')" style="display:none">
 	<div id="audio7" style="display:none">
-		<strong>MSAE:</strong> “Sometimes it's difficult to know where”
-	</div>
-</div>
-<div>
-	<audio src="MSAE_FPM/IF IT WAS GOING TO BE INCREASED(SOMETIMES IT'S DIFFICULT TO KNOW WHERE).wav" controls="controls" style='display:inline-block;'>
-	Your browser does not support the audio element.
-	</audio>
-	<div style='text-align:center; height:54px;display:inline-block; position:absolute;'>
-	<label for="input8" style='line-height:54px;font-size:18px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
-	</div>
-	
-	<input id="input8" type="submit" value="click&show" onclick="display('audio8')" style="display:none">
-	<div id="audio8" style="display:none">
 		<strong>C&W's Attack:</strong> “Sometimes it's difficult to know where”
 	</div>
 </div>
+
 
 ### 2. Video Adversarial Examples
 Since the examples listed below is in the audio-visual test, the attack method in "()" means the corresponding audio attack mehtod.
