@@ -24,11 +24,11 @@ Sparse adversarial attacks design imperceptible perturbations onto partial posit
 	<div id="lb" style="display:none">
 		<strong>Clean audio:</strong> “But before I do.”
 	</div>
-<div>
+</div>
 
 ### 2. Video Adversarial Examples
 
-#### BUT BEFORE I DO  -->  PROBABLY AROUND 85
+**BUT BEFORE I DO  -->  PROBABLY AROUND 85**
 <div>
 <video width="224" height="112" controls>
   <source src="MSAE_FPM/BUT BEFORE I DO.mp4" type="video/mp4">
