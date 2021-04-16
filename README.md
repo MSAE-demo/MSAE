@@ -37,7 +37,7 @@ Here We display two sets of audio examples and video examples of the audio-visua
 	
 	<input id="input2" type="submit" value="click&show" onclick="display('audio2')" style="display:none">
 	<div id="audio2" style="display:none">
-		<strong>IPC Attack:</strong> “Probably around 85”
+		<strong>IPC Attack[2]:</strong> “Probably around 85”
 	</div>
 </div>
 <div>
@@ -50,7 +50,7 @@ Here We display two sets of audio examples and video examples of the audio-visua
 	
 	<input id="input3" type="submit" value="click&show" onclick="display('audio3')" style="display:none">
 	<div id="audio3" style="display:none">
-		<strong>C&W's Attack:</strong> “Probably around 85”
+		<strong>C&W's Attack[3]:</strong> “Probably around 85”
 	</div>
 </div>
 <div>
@@ -91,7 +91,7 @@ Here We display two sets of audio examples and video examples of the audio-visua
 	
 	<input id="input6" type="submit" value="click&show" onclick="display('audio6')" style="display:none">
 	<div id="audio6" style="display:none">
-		<strong>IPC Attack:</strong> “Sometimes it's difficult to know where”
+		<strong>IPC Attack[2]:</strong> “Sometimes it's difficult to know where”
 	</div>
 </div>
 <div>
@@ -117,7 +117,7 @@ Here We display two sets of audio examples and video examples of the audio-visua
 	
 	<input id="input7" type="submit" value="click&show" onclick="display('audio7')" style="display:none">
 	<div id="audio7" style="display:none">
-		<strong>C&W's Attack:</strong> “Sometimes it's difficult to know where”
+		<strong>C&W's Attack[3]:</strong> “Sometimes it's difficult to know where”
 	</div>
 </div>
 
@@ -151,7 +151,7 @@ Since the examples listed below is in the audio-visual test, the attack method i
 	  <source src="CW_l2/BUT BEFORE I DO.avi(PROBABLY AROUND 85).avi" type="video/avi">
 	  您的浏览器不支持 HTML5 video 标签。
 	</video>
-	<h4>C&W-l2 (C&W's Attack)</h4>
+	<h4>C&W-l2[4] (C&W's Attack[3])</h4>
 	</div>
 	
 	<div style='text-align:center; display: inline-block;'>
@@ -160,7 +160,7 @@ Since the examples listed below is in the audio-visual test, the attack method i
 	  <source src="IPC/BUT BEFORE I DO.avi(PROBABLY AROUND 85).avi" type="video/avi">
 	  您的浏览器不支持 HTML5 video 标签。
 	</video>
-	<h4>C&W-l2 (IPC Attack)</h4>
+	<h4>C&W-l2[4] (IPC Attack[2])</h4>
 	</div>
 </div>
 
@@ -190,7 +190,7 @@ Since the examples listed below is in the audio-visual test, the attack method i
 	  <source src="CW_l2/IF IT WAS GOING TO BE INCREASED(SOMETIMES IT'S DIFFICULT TO KNOW WHERE).avi" type="video/avi">
 	  您的浏览器不支持 HTML5 video 标签。
 	</video>
-	<h4>C&W-l2 (C&W's Attack)</h4>
+	<h4>C&W-l2[4] (C&W's Attack[3])</h4>
 	</div>
 	
 	<div style='text-align:center; display: inline-block;'>
@@ -199,14 +199,16 @@ Since the examples listed below is in the audio-visual test, the attack method i
 	  <source src="IPC/IF IT WAS GOING TO BE INCREASED(SOMETIMES IT'S DIFFICULT TO KNOW WHERE).avi" type="video/avi">
 	  您的浏览器不支持 HTML5 video 标签。
 	</video>
-	<h4>C&W-l2 (IPC Attack)</h4>
+	<h4>C&W-l2[4] (IPC Attack[2])</h4>
 	</div>
 </div>
 
 
 ## References
 [1] Afouras T, Chung J S, Senior A, et al. Deep audio-visual speech recognition[J]. IEEE transactions on pattern analysis and machine intelligence, 2018.
-
+[2] Zhang H, Zhou P, Yan Q, et al. Generating robust audio adversarial examples with temporal dependency[C]//Proc. Int. Joint Conf. Artif. Intell. 2020: 1-5.
+[3] Carlini N, Wagner D. Audio adversarial examples: Targeted attacks on speech-to-text[C]//2018 IEEE Security and Privacy Workshops (SPW). IEEE, 2018: 1-7.
+[4] Carlini N, Wagner D. Towards evaluating the robustness of neural networks[C]//2017 ieee symposium on security and privacy (sp). IEEE, 2017: 39-57.
 
 
 
