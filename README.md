@@ -16,7 +16,7 @@ Sparse adversarial attacks design imperceptible perturbations onto partial posit
 	<audio src="MSAE_FPM/BUT BEFORE I DO.wav" controls="controls" style='display:inline-block;'>
 	Your browser does not support the audio element.
 	</audio>
-	<label for="audio1" style='display:inline-block;line-height:54px;font-size:24px;font-weight:bold;'>[Reveal Transcription]</label>
+	<label for="audio1" style='display:inline-block;line-height:54px;font-size:20px;font-weight:bold; text-align:center;'>[Reveal Transcription]</label>
 	<input id="audio1" type="submit" value="在线支付" onclick="display('lb')" style="display:none">
 	<div id="lb" style="display:none">
 		<strong>Clean audio:</strong> “But before I do.”
@@ -25,12 +25,16 @@ Sparse adversarial attacks design imperceptible perturbations onto partial posit
 
 ### 2. Video Adversarial Examples
 
-<video src="MSAE_FPM/BUT BEFORE I DO.mp4" controls="controls">
-  Your browser does not support the HTML5 video element.
+<video width="112" height="112" controls>
+  <source src="MSAE_FPM/BUT BEFORE I DO.mp4" type="video/mp4">
+  <source src="MSAE_FPM/BUT BEFORE I DO.avi" type="video/avi">
+  您的浏览器不支持 HTML5 video 标签。
 </video>
 
-<video src="MSAE_FPM/IF IT WAS GOING TO BE INCREASED.mp4" controls="controls">
-  Your browser does not support the HTML5 video element.
+<video width="112" height="112" controls>
+  <source src="MSAE_FPM/IF IT WAS GOING TO BE INCREASED.mp4" type="video/mp4">
+  <source src="MSAE_FPM/IF IT WAS GOING TO BE INCREASED.avi" type="video/avi">
+  您的浏览器不支持 HTML5 video 标签。
 </video>
 
 
