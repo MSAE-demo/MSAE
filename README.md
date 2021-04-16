@@ -33,18 +33,23 @@ Sparse adversarial attacks design imperceptible perturbations onto partial posit
 ### 2. Video Adversarial Examples
 
 **BUT BEFORE I DO  -->  PROBABLY AROUND 85**
-<div>
+
+<div style='text-align:center;'>
 <video width="224" height="112" controls>
   <source src="MSAE_FPM/BUT BEFORE I DO.mp4" type="video/mp4">
   <source src="MSAE_FPM/BUT BEFORE I DO.avi" type="video/avi">
   您的浏览器不支持 HTML5 video 标签。
 </video>
+<h4>MSAE</h4>
+</div>
 
+<div style='text-align:center;'>
 <video width="224" height="112" controls>
   <source src="CW_l2/BUT BEFORE I DO.mp4" type="video/mp4">
   <source src="CW_l2/BUT BEFORE I DO.avi" type="video/avi">
   您的浏览器不支持 HTML5 video 标签。
 </video>
+<h4>CW_l2</h4>
 </div>
 
 
