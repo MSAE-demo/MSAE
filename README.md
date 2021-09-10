@@ -2,7 +2,7 @@
 
 <center><b>Anonymous Author(s)</b></center>
 
-<center>Submission Id: 1514</center> 
+<center>Submission Id: 4437</center> 
 
 ## Abstract
 Sparse adversarial attacks design imperceptible perturbations onto partial positions of inputs that lead a neural network model to predict incorrect outputs. Until now, most researches focus on the image classification and speech recognition domains. Compared with images, adversarial examples for an audio-visual speech recognition system are redundant in spatial and temporal domains. Due to adversarial error propagation, perturbations should be added on as few temporal frames and spatial points as possible (i.e. adversarial perturbations are sparse) to improve imperceptibility. Therefore, how to determine the positions to be perturbed becomes a challenge for sparse audio-visual adversarial examples. In this paper, we propose a novel masked sparse adversarial attack algorithm, MSAE, that adopts selective masks to overcome the difficulties above. Specifically, we introduce selective masks to automatically determine the perturbed positions through backpropagation. Since the binary selective masks can not be directly optimized with gradient descent, we optimize the binary masks with the alternating direction method of multipliers algorithm by projecting them into the intersection of two continuous spaces. Experiments on the LRS2-BBC dataset demonstrate the effectiveness of MSAE: it improves the performances of several state-of-the-art attack baselines with controllable sparsity. Moreover, our work is the first attempt to implement a successful optimization-based sparse attack against an audio-visual speech recognition system.
