@@ -12,7 +12,9 @@ Here We display two sets of audio examples and video examples of the audio-visua
 
 
 ### 1. Adversarial Examples for Audio-Visual Speech Recognition
-[*] --> means being transcribed to
+
+*Note: --> means being transcribed to*
+
 **First Set: IF YOU ARE LOOKING ROUND AUCTION PROPERTIES BEFORE THE AUCTION  -->  IT WOULD HAVE BEEN COMPLETELY ALIEN TO THE REST OF LONDON**
 <div>
 	<div style='text-align:center; display: inline-block;'>
