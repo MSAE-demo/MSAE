@@ -43,7 +43,7 @@ Since the examples listed below is in the audio-visual test, the attack method i
 	
 	<div style='text-align:center; display: inline-block;'>
 	<video width="224" height="112" controls>
-	  <source src="1.mp4" type="video/mp4">
+	  <source src="IPC_MSAE/1.mp4" type="video/mp4">
 	  您的浏览器不支持 HTML5 video 标签。
 	</video>
 	<h4>IPC + CW_l2 with MSAE</h4>
@@ -59,10 +59,136 @@ Since the examples listed below is in the audio-visual test, the attack method i
 	
 	<div style='text-align:center; display: inline-block;'>
 	<video width="224" height="112" controls>
-	  <source src="1.mp4" type="video/mp4">
+	  <source src="Imperceptible_MSAE/1.mp4" type="video/mp4">
 	  您的浏览器不支持 HTML5 video 标签。
 	</video>
 	<h4>Imperceptible + CW_l2 with MSAE</h4>
+	</div>
+	
+	<div style='text-align:center; display: inline-block;'>
+	<video width="224" height="112" controls>
+	  <source src="CW/1_gt.mp4" type="video/mp4">
+	  您的浏览器不支持 HTML5 video 标签。
+	</video>
+	<h4>Clean Video</h4>
+	</div>
+</div>
+
+**Second Set: IF YOU ARE LOOKING ROUND AUCTION PROPERTIES BEFORE THE AUCTION  -->  IT WOULD HAVE BEEN COMPLETELY ALIEN TO THE REST OF LONDON**
+<div>
+	<div style='text-align:center; display: inline-block;'>
+	<video width="224" height="112" controls>
+	  <source src="CW/2.mp4" type="video/mp4">
+	  您的浏览器不支持 HTML5 video 标签。
+	</video>
+	<h4>CW + CW_l2</h4>
+	</div>
+	
+	<div style='text-align:center; display: inline-block;'>
+	<video width="224" height="112" controls>
+	  <source src="CW_MSAE/2.mp4" type="video/mp4">
+	  您的浏览器不支持 HTML5 video 标签。
+	</video>
+	<h4>CW + CW_l2 with MSAE</h4>
+	</div>
+
+	<div style='text-align:center; display: inline-block;'>
+	<video width="224" height="112" controls>
+	  <source src="IPC/2.mp4" type="video/mp4">
+	  您的浏览器不支持 HTML5 video 标签。
+	</video>
+	<h4>IPC + CW_l2</h4>
+	</div>
+	
+	<div style='text-align:center; display: inline-block;'>
+	<video width="224" height="112" controls>
+	  <source src="IPC_MSAE/2.mp4" type="video/mp4">
+	  您的浏览器不支持 HTML5 video 标签。
+	</video>
+	<h4>IPC + CW_l2 with MSAE</h4>
+	</div>
+	
+	<div style='text-align:center; display: inline-block;'>
+	<video width="224" height="112" controls>
+	  <source src="Imperceptible/2.mp4" type="video/mp4">
+	  您的浏览器不支持 HTML5 video 标签。
+	</video>
+	<h4>Imperceptible + CW_l2</h4>
+	</div>
+	
+	<div style='text-align:center; display: inline-block;'>
+	<video width="224" height="112" controls>
+	  <source src="Imperceptible_MSAE/2.mp4" type="video/mp4">
+	  您的浏览器不支持 HTML5 video 标签。
+	</video>
+	<h4>Imperceptible + CW_l2 with MSAE</h4>
+	</div>
+	
+	<div style='text-align:center; display: inline-block;'>
+	<video width="224" height="112" controls>
+	  <source src="CW/2_gt.mp4" type="video/mp4">
+	  您的浏览器不支持 HTML5 video 标签。
+	</video>
+	<h4>Clean Video</h4>
+	</div>
+</div>
+
+**Third Set: IT'S A VERY ATTRACTIVE GUIDE PRICE FOR A SUBSTANTIAL HOUSE SO WELL  -->  BUT I THINK WHAT WE'RE SEEING HERE IS KIND OF THE BLUEPRINT**
+<div>
+	<div style='text-align:center; display: inline-block;'>
+	<video width="224" height="112" controls>
+	  <source src="CW/3.mp4" type="video/mp4">
+	  您的浏览器不支持 HTML5 video 标签。
+	</video>
+	<h4>CW + CW_l2</h4>
+	</div>
+	
+	<div style='text-align:center; display: inline-block;'>
+	<video width="224" height="112" controls>
+	  <source src="CW_MSAE/3.mp4" type="video/mp4">
+	  您的浏览器不支持 HTML5 video 标签。
+	</video>
+	<h4>CW + CW_l2 with MSAE</h4>
+	</div>
+
+	<div style='text-align:center; display: inline-block;'>
+	<video width="224" height="112" controls>
+	  <source src="IPC/3.mp4" type="video/mp4">
+	  您的浏览器不支持 HTML5 video 标签。
+	</video>
+	<h4>IPC + CW_l2</h4>
+	</div>
+	
+	<div style='text-align:center; display: inline-block;'>
+	<video width="224" height="112" controls>
+	  <source src="IPC_MSAE/3.mp4" type="video/mp4">
+	  您的浏览器不支持 HTML5 video 标签。
+	</video>
+	<h4>IPC + CW_l2 with MSAE</h4>
+	</div>
+	
+	<div style='text-align:center; display: inline-block;'>
+	<video width="224" height="112" controls>
+	  <source src="Imperceptible/3.mp4" type="video/mp4">
+	  您的浏览器不支持 HTML5 video 标签。
+	</video>
+	<h4>Imperceptible + CW_l2</h4>
+	</div>
+	
+	<div style='text-align:center; display: inline-block;'>
+	<video width="224" height="112" controls>
+	  <source src="Imperceptible_MSAE/3.mp4" type="video/mp4">
+	  您的浏览器不支持 HTML5 video 标签。
+	</video>
+	<h4>Imperceptible + CW_l2 with MSAE</h4>
+	</div>
+	
+	<div style='text-align:center; display: inline-block;'>
+	<video width="224" height="112" controls>
+	  <source src="CW/3_gt.mp4" type="video/mp4">
+	  您的浏览器不支持 HTML5 video 标签。
+	</video>
+	<h4>Clean Video</h4>
 	</div>
 </div>
 
